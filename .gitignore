@@ -1,0 +1,41 @@
+# ================= Unity =================
+# 这些是 Unity 自动生成的缓存/临时目录，不需要上传
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# 自动生成的 IDE/工具文件
+.vs/
+.vscode/
+.idea/
+
+# 崩溃报告与临时文件
+sysinfo.txt
+*.stackdump
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Unity 自动生成的解决方案和工程文件
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.userprefs
+
+# ================= 系统文件 =================
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# ================= 说明 =================
+# 重要：Assets/ 下的 .meta 文件请务必保留并提交，
+# 它们是资源 GUID 的映射，缺失会导致资源引用丢失。
